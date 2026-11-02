@@ -1,0 +1,11 @@
+﻿venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+.env
+models/*.pt
+uploads/*
+!uploads/.gitkeep
+.vscode/
+.idea/

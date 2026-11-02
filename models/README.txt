@@ -1,0 +1,1 @@
+Place a compatible trained Ultralytics YOLO detection model here as best.pt. The starter ZIP does not include weights. Check class names and map them in modules/waste_guide.py. Unknown classes are labelled General / unknown for review.

@@ -1,0 +1,8 @@
+streamlit>=1.37
+pymongo[srv]>=4.8
+python-dotenv>=1.0
+pandas>=2.1
+plotly>=5.22
+Pillow>=10.0
+ultralytics>=8.2
+opencv-python-headless>=4.9
